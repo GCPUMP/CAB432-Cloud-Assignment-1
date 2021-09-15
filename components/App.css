@@ -1,0 +1,77 @@
+.top-spacing {
+padding-top:30px;
+}
+
+.index-col1 {
+width: 700px;
+text-align: left;
+padding-left: 40px;
+font-size: 30px;
+color: black;
+
+}
+
+.Unpaid{
+  color: #C0C0C0;
+}
+
+.Success-Message{
+  color:green;
+}
+
+.Header-Section{
+padding-left: 70px;
+padding-top: 20px;
+}
+
+.Table-Section {
+text-align: center;
+padding-top:30px;
+}
+
+.search-text{
+padding-bottom:10px;
+}
+
+.currency-search{
+padding-bottom:30px;
+}
+
+.Year-Message {
+color:red;
+}
+
+.row {
+padding-top:20px;
+}
+
+.centre {
+text-align: center;
+}
+
+.bottom-spacing {
+padding-bottom:30px;
+}
+
+.small-bottom-spacing {
+padding-bottom:15px;
+}
+
+.big-top-spacing {
+padding-top:70px;
+
+}
+
+.body {
+  background-color: #FDE3E3;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+  background-color: white;
+}
+
+.col {
+  border-color:black;
+}
